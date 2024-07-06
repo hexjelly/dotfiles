@@ -3,7 +3,7 @@ local wezterm = require 'wezterm'
 local config = {}
 
 config.font = wezterm.font 'JetBrains Mono'
-config.color_scheme = 'zenburn (terminal.sexy)'
+config.color_scheme = 'Wombat'
 config.default_cursor_style = 'SteadyUnderline'
 
 -- tmux-like panes
